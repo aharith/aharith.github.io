@@ -26,8 +26,9 @@ a:hover {
 }
 
 .avatar {
-  border-radius: 50%;
-  width: 30vw;
+    border-radius: 50%;
+    width: 30vw;
+    max-width: inherit;
 }
 
 /**
